@@ -42,20 +42,71 @@ Key Files:
 
 ---
 
+Here’s the updated **Resources** section with the additional links included:
+
+---
+
 ## 📚 Resources
 
-The following resources were instrumental in developing these projects:
+Below is a collection of resources that have been instrumental in understanding transformer interpretability. These are grouped into **Videos**, **Blog Posts**, and **Papers/Tools** for easy navigation.
 
 ### **Videos**
-- [Neel Nanda’s Tutorials](https://www.youtube.com/): A step-by-step guide to understanding transformer circuits.
+1. [Mechanistic Interpretability: Attention Heads & Induction Heads](https://youtu.be/KV5gbOmHbjU?si=qBljml-mCcuDn1iU)  
+   *(An intuitive introduction to attention heads and their role in transformers.)*
+
+2. [Exploring Algorithmic Tasks in Transformers](https://youtu.be/bOYE6E8JrtU?si=vP7l66u_GeK0V_fP)  
+   *(Discusses how transformers tackle algorithmic challenges.)*
+
+3. [Visualizing Transformer Circuits](https://youtu.be/dsjUDacBw8o?si=cQgioyv_nvvae97L)  
+   *(Detailed visualizations and explanations of transformer circuits.)*
+
+---
 
 ### **Blog Posts**
-- [Transformer Circuits by Anthropic](https://transformer-circuits.pub/): In-depth explorations of attention mechanisms and interpretability techniques.
+1. [Getting Started with Mechanistic Interpretability by Neel Nanda](https://www.neelnanda.io/mechanistic-interpretability/getting-started)  
+   *(A beginner-friendly introduction to mechanistic interpretability.)*
 
-### **Papers**
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762): The seminal transformer architecture paper.
-- [A Mathematical Framework for Transformer Circuits](https://arxiv.org/abs/): An advanced exploration of circuit-level mechanisms.
+2. [Explaining the Transformer Circuits Framework by Example](https://www.lesswrong.com/posts/CJsxd8ofLjGFxkmAP/explaining-the-transformer-circuits-framework-by-example)  
+   *(A practical example-driven explanation of transformer circuits.)*
 
+3. [Induction Heads Illustrated](https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated)  
+   *(A visual guide to understanding induction heads in transformers.)*
+
+4. [September Monthly Problem: Mechanistic Interpretability](https://www.perfectlynormal.co.uk/blog-september-monthly-problem)  
+   *(A hands-on problem to explore transformer circuits.)*
+
+5. [200 COP in MI: Interpreting Algorithmic Problems](https://www.lesswrong.com/posts/ejtFsvyhRkMofKAFy/200-cop-in-mi-interpreting-algorithmic-problems)  
+   *(A comprehensive blog exploring interpretability challenges in transformers.)*
+
+6. [Measuring Structure Development in Algorithmic Transformers](https://www.alignmentforum.org/posts/ooAao2RYdFSd77qfp/measuring-structure-development-in-algorithmic-transformers)  
+   *(Insights into how structure develops in transformers solving algorithmic tasks.)*
+
+7. [Transformer Circuits: Main Hub](https://transformer-circuits.pub/)  
+   *(A collection of articles exploring transformer circuits in depth.)*
+
+8. [Dynalist: Interpretability Resources](https://dynalist.io/d/n2ZWtnoYHrU1s4vnFSAQ519J#z=aGu9fP1EG3hiVdq169cMOJId)  
+    *(A curated list of resources for mechanistic interpretability.)*
+
+---
+
+### **Papers/Tools**
+1. [ARENA 3.0: Mechanistic Interpretability Tools](https://github.com/callummcdougall/ARENA_3.0)  
+   *(A GitHub repository providing tools and examples for mechanistic interpretability.)*
+
+2. [Streamlit App: Exploring Chapter 1 Transformer Interpretability](https://arena3-chapter1-transformer-interp.streamlit.app/)  
+   *(Interactive app for exploring transformer interpretability concepts.)*
+
+3. [The Alignment Forum](https://www.alignmentforum.org/)  
+   *(A hub for discussions and research on alignment and interpretability.)*
+
+4. [Recent Paper: “Investigating Structure in Transformers”](https://arxiv.org/html/2311.04131v6)  
+   *(A recent research paper on transformer interpretability and structure.)*
+
+5. [Transformer Circuits Framework (by Anthropic)](https://transformer-circuits.pub/2021/framework/index.html)  
+   *(A structured introduction to transformer circuits.)*
+
+6. [In-Context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)  
+   *(A deep dive into in-context learning and induction head mechanisms.)*
 ---
 
 ## 🚀 How to Use This Repository
