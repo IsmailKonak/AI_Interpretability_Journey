@@ -1,0 +1,21 @@
+***** median_model4 ********************************
+args = TrainArgs(
+    max_num=50,
+    seq_len=7,
+    trainset_size=int(8_000*6),
+    valset_size=int(8_000*3),
+    epochs=200,
+    batch_size=1024,
+    lr=3e-3,
+    seed=23,
+    d_model=32,
+    d_head=32,
+    n_layers=1,
+    n_heads=1,
+    d_mlp=None,
+    normalization_type="LN",
+    use_wandb=True,
+    device=device,
+)
+
+*****************************************************************
