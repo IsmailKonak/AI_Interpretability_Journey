@@ -72,13 +72,6 @@ pip install -r requirements.txt
 1. Train the model using `training_model.ipynb`.
 2. Visualize the model’s behavior with `analyze.ipynb`.
 
-## Key Functions
-
-- **Prediction and Ablation:**
-  - `predict_with_ablation`: Analyze how specific head or position modifications affect predictions.
-- **Visualization:**
-  - `calculate_qk_attn_heatmap`: Generate query-key attention heatmaps.
-  - `plot_ov_heatmap_all_heads`: Visualize output vector weights across heads.
 
 ## Goals
 
@@ -94,3 +87,5 @@ pip install -r requirements.txt
 ---
 
 Dive into the fascinating world of interpretable AI and uncover how transformers make decisions!
+
+Note: Feel free to reach out if you notice any inaccuracies or have suggestions to improve this project—I'm here to learn and greatly appreciate constructive feedback! You can contact me at i_konak@hotmail.com or open an issue in the repository.
