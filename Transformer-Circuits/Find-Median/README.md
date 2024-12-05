@@ -12,10 +12,6 @@ The **Find-Median Task** requires the model to predict the median value from a l
 - **Callum McDougall's TakeMax Problem**
 - **Neel Nanda's 200 Problems in Mechanistic Interpretability**
 
-The small model size makes it:
-- Easy to train
-- Easy to interpret
-
 ## Repository Structure
 
 Here’s an overview of the repository’s contents:
@@ -69,14 +65,6 @@ pip install -r requirements.txt
 1. Open `training_model.ipynb` to train the model.
 2. Use `analyze.ipynb` to visualize and interpret the trained model.
 
-## Key Functions
-
-- **Prediction and Ablation:**
-  - `predict_with_ablation`: Analyze the effect of ablations on specific heads or positions.
-- **Visualization:**
-  - `calculate_qk_attn_heatmap`: Generates query-key attention heatmaps.
-  - `plot_ov_heatmap_all_heads`: Visualizes output vector weights for all heads.
-
 ## Goals
 
 1. **Understand Transformers Better:** Learn how attention and weights contribute to task performance.
@@ -92,4 +80,8 @@ Special thanks to:
 ---
 
 Enjoy experimenting with interpretable AI and transforming insights into knowledge!
+
+
+Note: Feel free to reach out if you notice any inaccuracies or have suggestions to improve this project—I'm here to learn and greatly appreciate constructive feedback! You can contact me at i_konak@hotmail.com or open an issue in the repository.
+
 ---
